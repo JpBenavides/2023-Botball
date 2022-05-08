@@ -1,5 +1,6 @@
 #include <kipr/wombat.h>
 //variables 
+//updated functions for the robot not fully complete 
 int lmotor = 0;
 int rmotor = 3;
 int nospeed = 0;
